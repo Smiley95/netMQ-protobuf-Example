@@ -1,0 +1,12 @@
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\bin\Debug\netcoreapp2.1\EventRaiser.deps.json
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\bin\Debug\netcoreapp2.1\EventRaiser.runtimeconfig.json
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\bin\Debug\netcoreapp2.1\EventRaiser.runtimeconfig.dev.json
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\bin\Debug\netcoreapp2.1\EventRaiser.dll
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\bin\Debug\netcoreapp2.1\EventRaiser.pdb
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.csprojAssemblyReference.cache
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.csproj.CoreCompileInputs.cache
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.AssemblyInfoInputs.cache
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.AssemblyInfo.cs
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.dll
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.pdb
+C:\Users\ETaieb\Desktop\mandatory\dev\PubSubNetMQ\EventRaiser\obj\Debug\netcoreapp2.1\EventRaiser.genruntimeconfig.cache
